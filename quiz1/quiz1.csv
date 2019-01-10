@@ -1,3 +1,8 @@
-5+5,10
-1+1,2
-8+3,11
+Does Go support method overloading?,no
+In Go language variables of different types can be declared in one statement.,yes
+Is Java and Javascript same?,no
+The term rvalue refers to a data value that is stored at some address in memory.,yes
+A slice is an abstraction over array.,yes
+If a slice is declared with no inputs then by default it is initialized as nil.,yes
+One can increase the capacity of a array using the append() function.,no
+What is national animal of Nepal,cow
